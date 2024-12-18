@@ -1,6 +1,6 @@
 # Sistema de Gestão de Biblioteca 📚
 
-Bem-vindo ao **Sistema de Gestão de Biblioteca**! Este projeto foi desenvolvido como parte de um desafio da trilha de Java do **Ignite**, com o objetivo de praticar conceitos fundamentais de Java, como herança, polimorfismo, estruturas de repetição, e manipulação de coleções e datas.
+Bem-vindo ao **Sistema de Gestão de Biblioteca**! Este projeto foi desenvolvido como parte dum desafio da trilha de Java do **Rocketseat**, com o objetivo de praticar conceitos fundamentais de Java, como herança, polimorfismo, estruturas de repetição, e manipulação de coleções e datas.
 
 ---
 
@@ -8,7 +8,7 @@ Bem-vindo ao **Sistema de Gestão de Biblioteca**! Este projeto foi desenvolvido
 
 ### **Gerenciamento de Livros**
 - **Listar todos os livros disponíveis**: Exibe os livros que estão disponíveis para empréstimo.
-- **Realizar empréstimo de um livro**: Permite que o usuário selecione um livro disponível e registre o empréstimo. O livro é marcado como indisponível durante a execução do programa.
+- **Realizar empréstimo dum livro**: Permite que o usuário selecione um livro disponível e registre o empréstimo. O livro é marcado como indisponível durante a execução do programa.
 - **Devolver um livro**: Permite que o usuário devolva um livro emprestado, marcando-o como disponível novamente.
 
 ### **Gerenciamento de Empréstimos**
@@ -38,14 +38,14 @@ Representa os autores dos livros, com os seguintes atributos:
 - `nome`: Nome do autor.
 - `dataNascimento`: Data de nascimento do autor.
 
-### **3. Emprestimo**
-Gerencia os empréstimos realizados, com as seguintes informações:
+### **3. Empréstimo**
+Gerência os empréstimos realizados, com as seguintes informações:
 - `livro`: Referência ao livro emprestado.
 - `cliente`: Nome do cliente que realizou o empréstimo.
 - `dataEmprestimo`: Data em que o empréstimo foi realizado.
 
 ### **4. Biblioteca**
-Gerencia a coleção de livros, autores e empréstimos, oferecendo os seguintes métodos:
+Gerência a coleção de livros, autores e empréstimos, oferecendo os seguintes métodos:
 - `adicionarLivro`: Adiciona um novo livro à biblioteca.
 - `adicionarAutor`: Adiciona um novo autor à biblioteca.
 - `listarLivrosDisponiveis`: Exibe os livros disponíveis para empréstimo.
