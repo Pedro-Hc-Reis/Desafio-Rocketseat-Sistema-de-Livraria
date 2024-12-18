@@ -70,10 +70,4 @@ Gerência a coleção de livros, autores e empréstimos, oferecendo os seguintes
 
 ---
 
-## 📜 Licença
-
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo LICENSE para mais informações.
-
----
-
 ### Obrigado por conferir o Sistema de Gestão de Biblioteca! 😊
